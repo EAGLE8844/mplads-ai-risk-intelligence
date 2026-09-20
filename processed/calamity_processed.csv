@@ -1,0 +1,14 @@
+Sr. No.,Calamity Type,Calamity Name,Hon'ble Members of Parliament,Date of Consent,Consent Amount ( ₹ ),calamity_type_clean,calamity_name_clean,mp_clean,consent_date,consent_amount,missing_amount,duplicate_record,data_quality_score,data_quality_alert
+1,National Calamity,Flood 2025 in Punjab,Shri Gurjeet Singh Aujla,07-Dec-2025,7067400,National Calamity,Flood 2025 in Punjab,Shri Gurjeet Singh Aujla,2025-12-07,7067400.0,False,False,100.0,False
+2,National Calamity,Flood 2025 in Punjab,GURMEET SINGH MEET HAYER,03-Nov-2025,7500000,National Calamity,Flood 2025 in Punjab,GURMEET SINGH MEET HAYER,2025-11-03,7500000.0,False,False,100.0,False
+3,National Calamity,Flood 2025 in Punjab,Shri Jual Oram,10-Oct-2025,10000000,National Calamity,Flood 2025 in Punjab,Shri Jual Oram,2025-10-10,10000000.0,False,False,100.0,False
+4,National Calamity,Andhra Pradesh rainfall and consequent floods - 2024,Krishna Prasad Tenneti,26-Mar-2025,1000000,National Calamity,Andhra Pradesh rainfall and consequent floods - 2024,Krishna Prasad Tenneti,2025-03-26,1000000.0,False,False,100.0,False
+5,National Calamity,Meppadi landslides 2024,SHAFI PARAMBIL,02-Mar-2025,2500000,National Calamity,Meppadi landslides 2024,SHAFI PARAMBIL,2025-03-02,2500000.0,False,False,100.0,False
+6,State Calamity,Vilangad Landslides 2024,SHAFI PARAMBIL,01-Mar-2025,2500000,State Calamity,Vilangad Landslides 2024,SHAFI PARAMBIL,2025-03-01,2500000.0,False,False,100.0,False
+7,National Calamity,Meppadi landslides 2024,DR C N MANJUNATH,17-Feb-2025,500000,National Calamity,Meppadi landslides 2024,DR C N MANJUNATH,2025-02-17,500000.0,False,False,100.0,False
+8,National Calamity,Meppadi landslides 2024,Andimuthu Raja,05-Feb-2025,2500000,National Calamity,Meppadi landslides 2024,Andimuthu Raja,2025-02-05,2500000.0,False,False,100.0,False
+9,State Calamity,Wayanad landslides 2024,Shri NK Premachandran,07-Dec-2024,1000000,State Calamity,Wayanad landslides 2024,Shri NK Premachandran,2024-12-07,1000000.0,False,False,100.0,False
+10,State Calamity,Vilangad Landslides 2024,Shri NK Premachandran,07-Dec-2024,1000000,State Calamity,Vilangad Landslides 2024,Shri NK Premachandran,2024-12-07,1000000.0,False,False,100.0,False
+11,State Calamity,Wayanad landslides 2024,K RADHAKRISHNAN,04-Dec-2024,2500000,State Calamity,Wayanad landslides 2024,K RADHAKRISHNAN,2024-12-04,2500000.0,False,False,100.0,False
+12,State Calamity,Natural Calamity Affected Area,BIPLAB KUMAR DEB,03-Sep-2024,2500000,State Calamity,Natural Calamity Affected Area,BIPLAB KUMAR DEB,2024-09-03,2500000.0,False,False,100.0,False
+Grand Total, , , , ,"4,05,67,400",,,,,40567400.0,False,False,40.0,True
